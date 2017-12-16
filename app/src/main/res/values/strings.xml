@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GovermentAdmin</string>
+    <string name="loading">Loading</string>
+    <string name="DB_Users">Users</string>
+</resources>
